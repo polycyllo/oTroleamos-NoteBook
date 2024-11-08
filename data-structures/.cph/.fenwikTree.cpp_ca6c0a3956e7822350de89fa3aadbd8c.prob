@@ -1,0 +1,1 @@
+{"name":"Local: fenwikTree","url":"c:\\ICPC\\data-structures\\fenwikTree.cpp","tests":[{"id":1712275148578,"input":"5 \n1 6 2 8 7","output":""},{"id":1714707520100,"input":"5 \n1 6 2 8 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ICPC\\data-structures\\fenwikTree.cpp","group":"local","local":true}
